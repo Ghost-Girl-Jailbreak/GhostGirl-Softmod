@@ -1,0 +1,53 @@
+# ---- Visual Studio / XDK Build Output ----
+[Bb]in/
+[Oo]bj/
+*.xex
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.obj
+*.idb
+*.suo
+*.user
+*.sdf
+*.opensdf
+*.aps
+*.ncb
+*.plg
+*.opt
+
+# ---- XDK Specific ----
+*.xdk
+*_xdk/
+Xbox360/
+XeLL/
+
+# ---- Softmod package files ----
+# The softmod package is distributed as a release asset,
+# not committed to the repo
+GhostGirlRepack/*.xex
+GhostGirlRepack/*.ini
+GhostGirlRepack/*.txt
+GhostGirlRepack/Apps/
+GhostGirlRepack/BadUpdatePayload/
+GhostGirlRepack/Content/
+GhostGirlRepack/Dash/
+*.zip
+!releases/*.zip
+
+# ---- VS temp ----
+.vs/
+*.log
+*.tlog
+
+# ---- OS junk ----
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# ---- Local dev ----
+dev/
+testfiles/
+*.bak
+*.tmp
