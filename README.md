@@ -5,13 +5,13 @@
 <br/>
 
 ![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-D4AF37?style=for-the-badge&labelColor=1a1a1a)
+![Version](https://img.shields.io/badge/VERSION-v1.3.9-C9A227?style=for-the-badge&labelColor=1a1a1a)
 ![Platform](https://img.shields.io/badge/PLATFORM-XBOX%20360-B8860B?style=for-the-badge&labelColor=1a1a1a)
-![License](https://img.shields.io/badge/LICENSE-PROPRIETARY-C9A227?style=for-the-badge&labelColor=1a1a1a)
-![Part of](https://img.shields.io/badge/PART%20OF-Project%20Ghost%20Girl-D4AF37?style=for-the-badge&labelColor=1a1a1a)
+![License](https://img.shields.io/badge/LICENSE-PROPRIETARY-D4AF37?style=for-the-badge&labelColor=1a1a1a)
 
 <br/>
 
-[About](#-about) • [Download](#-download) • [Quick Start](#-quick-start) • [Warning](#️-warning) • [Compatibility](#-compatibility) • [Links](#-links)
+[About](#-about) • [Download](#-download) • [Read First](#️-read-first) • [Quick Start](#-quick-start) • [Compatibility](#-compatibility) • [Links](#-links)
 
 </div>
 
@@ -45,11 +45,32 @@ Part of [Project Ghost Girl](https://github.com/Ghost-Girl-Jailbreak/Project-Gho
 
 <div align="center">
 
+## ⚠️ READ FIRST
+
+</div>
+
+**Before you do anything else, read the full installation guide.**
+
+The softmod will **not** work if you skip the setup steps — especially:
+
+- Turning **Wi-Fi off**
+- Turning **Auto Sign-In off**
+- Using the **correct USB port**
+- Waiting the **correct time** before powering on
+
+📖 **Full Install Guide →** [docs/INSTALL.md](docs/INSTALL.md)
+
+If you install it manually without following the guide, the exploit will fail and you'll think the package is broken. It isn't — you just missed a step.
+
+---
+
+<div align="center">
+
 ## 📥 Download
 
 </div>
 
-**Latest:** `GhostGirlRepack.zip`
+**Latest:** `GhostGirlRepack.zip` — **v1.3.9**
 
 > 🚧 **Not published yet.** This release will be available here once the softmod package is stable.
 
@@ -62,6 +83,8 @@ Download from the [Releases page](../../releases). The zip contains a folder nam
 ## 🚀 Quick Start
 
 </div>
+
+> 📖 **This is a summary only.** Follow the [full install guide](docs/INSTALL.md) for the exact steps.
 
 1.  Download **`GhostGirlRepack.zip`** from Releases.
 2.  Extract the zip on your PC.
