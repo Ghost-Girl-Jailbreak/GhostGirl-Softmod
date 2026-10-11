@@ -25,7 +25,7 @@
 
 **GhostGirl Softmod** is the jailbreak package for Xbox 360 consoles — the `GhostGirlRepack.zip` file that gets you set up to run homebrew apps.
 
-Part of [Project Ghost Girl](https://github.com/Ghost-Girl-Jailbreak/Project-Ghost-Girl).
+Part of [Project Ghost Girl](https://github.com/Ghost-Girl-Jailbreak/Project-Ghost-Girl-).
 
 <div align="center">
 
